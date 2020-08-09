@@ -1,5 +1,5 @@
 # Web experiments and other hobby projects
-Visit [GreenZeta.com](https://greenzeta.com) for more information on these and other stuff I'm working on.
+Visit <a href="https://greenzeta.com/" target="_blank">GreenZeta.com</a> for more information on these and other stuff I'm working on.
 
 <!--
 **mwilber/mwilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
