@@ -1,3 +1,5 @@
+<img alt="Hero Image" src="https://greenzeta.com/wp-content/uploads/2024/01/zeta_laptop_wide_2-1024x341.png" />
+
 # Web experiments and other hobby projects
 Visit <a href="https://greenzeta.com/" target="_blank">GreenZeta.com</a> for more information on these projects and other stuff I'm working on.
 
