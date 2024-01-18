@@ -1,9 +1,10 @@
 <img alt="Hero Image" src="https://greenzeta.com/wp-content/uploads/2024/01/zeta_laptop_wide_2-1024x341.png" />
 
 # Web experiments and other hobby projects
-Visit <a href="https://greenzeta.com/" target="_blank">GreenZeta.com</a> for more information on these projects and other stuff I'm working on.
 
-Follow [@greenzeta](http://twitter.com/greenzeta) on twitter for updates.
+[![Portfolio](https://greenzeta.com/wp-content/uploads/2020/05/cropped-gz_green_dark_v2-150x150.png)](https://greenzeta.com) &nbsp;
+[![Twitter/X](https://greenzeta.com/wp-content/uploads/2024/01/twitter-x-logo-150x150.jpg)](https://twitter.com/greenzeta) &nbsp;
+[![LinkedIn](https://greenzeta.com/wp-content/uploads/2024/01/linkedin-icon-31483-150x150.png)](https://www.linkedin.com/in/mwilber/) &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
