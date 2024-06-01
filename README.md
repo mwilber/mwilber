@@ -10,9 +10,12 @@
   <a href="https://twitter.com/greenzeta"><img src="https://greenzeta.com/wp-content/uploads/2024/01/twitter-x-logo-150x150.jpg" alt="TwiX" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mwilber/"><img src="https://greenzeta.com/wp-content/uploads/2024/01/linkedin-icon-31483-150x150.png" alt="LinkedIn" /></a>
+  <br/>
+  <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  
 </div>
-<br/>
-<br/>
 <br/>
 <br/>
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></span>
@@ -23,7 +26,6 @@
 <span><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></span>
 <br/>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilber)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mwilber/mwilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
